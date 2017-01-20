@@ -1,0 +1,5 @@
+kconf hardware orion-io.cfg
+kconf non-hardware orion-io-non_hardware.cfg
+
+include features/input/input.scc
+include cfg/usb-mass-storage.scc
